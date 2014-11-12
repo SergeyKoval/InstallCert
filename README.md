@@ -117,6 +117,7 @@ q
 KeyStore not changed
  
 C:\>
+
 4.Copy jssecacerts
 Copy the generated “jssecacerts” file to your “$JAVA_HOME\jre\lib\security” folder.
 
