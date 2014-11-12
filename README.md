@@ -1,3 +1,6 @@
+http://www.mkyong.com/webservices/jax-ws/suncertpathbuilderexception-unable-to-find-valid-certification-path-to-requested-target/
+
+
 Problem
 Configured Tomcat to support SSL and deployed this web service on a development Tomcat server. While connect to the deployed web service over SSL connection via this URL : “https://localhost:8443/HelloWorld/hello?wsdl“, it hits
 
